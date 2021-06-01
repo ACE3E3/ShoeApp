@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569323398120",
+    "project_id": "e-shoe",
+    "storage_bucket": "e-shoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569323398120:android:5f640924a87921788bfa5d",
+        "android_client_info": {
+          "package_name": "com.example.e_shoeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569323398120-gs49g56d60eak68j1p9pr7040lm77qj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXqvnKYf3bIPwrQLLBUynseYZeAVcVwtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569323398120-gs49g56d60eak68j1p9pr7040lm77qj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
